@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o+Wqj9c5sG/CYQOgZfZacxZc0rS1KzRh+hDfufRsUenzqrQ5rB8Xc7Jln+cMvZxvf/DMcZfH0keeVxN4uoTZ9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Varfolomey\\source\\repos\\hometask_4_1\\hometask_4_1\\hometask_4_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Varfolomey\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
